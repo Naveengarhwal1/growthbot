@@ -67,7 +67,7 @@
       "createAccount": "Crear cuenta"
     },
     "Intro": {
-      "description": "Bienvenido a better-chatbot. Inicia sesión para experimentar nuestras herramientas conversacionales impulsadas por IA."
+      "description": "Bienvenido a Roaster AI. Inicia sesión para experimentar nuestras herramientas conversacionales impulsadas por IA."
     }
   },
   "Chat": {
@@ -269,7 +269,7 @@
     "generateAgentGreeting": "¡Hola! Te ayudaré a crear tu propio agente. ¿Qué te gustaría crear?",
     "generateAgentDetailedGreeting": "¡Hola! Te ayudaré a crear tu propio agente. ¿Qué te gustaría crear? Puedes escribir de forma breve o detallada.",
     "inputPromptHere": "escribe el prompt aquí...",
-    "agentNamePlaceholder": "better-agent"
+    "agentNamePlaceholder": "roaster-agent"
   },
   "KeyboardShortcuts": {
     "title": "Atajos de Teclado",
